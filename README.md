@@ -1,12 +1,12 @@
 # UTS - PERTEMUAN KE - 8
 # TUGAS PERTEMUAN KE 8 ( UTS )
 # HOME
-![image](https://github.com/user-attachments/assets/88d359ca-181d-46bc-8b5a-7b0c7beac129)
+![Gambar WhatsApp 2024-11-05 pukul 09 28 13_f21cc2fb](https://github.com/user-attachments/assets/f151fb04-22ed-4cd4-8ffd-09d33339cf88)
 # ABOUT
-![image](https://github.com/user-attachments/assets/795587d8-d4f0-4d54-a53d-e3d1aa444935)
+![Gambar WhatsApp 2024-11-05 pukul 09 27 44_ac51edd7](https://github.com/user-attachments/assets/4a9963c7-d0a9-4c11-85f6-93201f95b879)
 # CONTACT
-![image](https://github.com/user-attachments/assets/f6964c58-5dab-4177-940d-d26cdb29bbbe)
+![Gambar WhatsApp 2024-11-05 pukul 09 27 16_d66b837d](https://github.com/user-attachments/assets/e5c93529-b935-411c-8c24-72ec26c7d3ea)
 # FORM
-![image](https://github.com/user-attachments/assets/6128acca-c3eb-4b61-a7f0-599b71186fd2)
+![Gambar WhatsApp 2024-11-05 pukul 09 27 55_125d09a6](https://github.com/user-attachments/assets/53311577-f11f-4d15-a464-eca4541d6796)
 # DATA TABLES
-![image](https://github.com/user-attachments/assets/bf5fe553-fc5f-4f28-8a8f-4524f86eb62c)
+![Gambar WhatsApp 2024-11-05 pukul 09 27 33_7a7e5551](https://github.com/user-attachments/assets/6f8d08fc-98ea-47e1-ab97-57151fbb156f)
